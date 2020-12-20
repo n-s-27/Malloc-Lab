@@ -1,4 +1,6 @@
 /*
+* Hello Noah this is Michael I am testing if I succesfully cloned repository
+* and we can now collaborate
  * mm-naive.c - The fastest, least memory-efficient malloc package.
  * 
  * In this naive approach, a block is allocated by simply incrementing
